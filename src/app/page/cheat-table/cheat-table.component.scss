@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+
+.filter-wrapper {
+  width: 100%;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+}
